@@ -19,7 +19,7 @@
 <a href="https://fb.com/umang tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umang tripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/k_p_tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_p_tripathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kalikapdtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalikapdtripathi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kalikatripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kalikatripathi" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kalikatripathi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kalikatripathi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
